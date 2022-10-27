@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_page"
+        android:title="Trang chính"
+        android:icon="@drawable/ic_home"
+
+        />
+    <item
+        android:id="@+id/main_door"
+        android:title="Cửa chính"
+        android:icon="@drawable/ic_door"
+
+        />
+    <item
+        android:id="@+id/kitchen"
+        android:title="phòng bếp"
+        android:icon="@drawable/ic_kitchen"
+
+        />
+    <item
+        android:id="@+id/bed_room"
+        android:title="Phòng ngủ"
+        android:icon="@drawable/ic_bedroom"
+
+        />
+    <item
+        android:id="@+id/setting"
+        android:title="Cài đặt"
+        android:icon="@drawable/ic_settings"
+        />
+</menu>

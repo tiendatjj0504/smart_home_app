@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658724121200",
+    "firebase_url": "https://appsmarthome-ec90d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "appsmarthome-ec90d",
+    "storage_bucket": "appsmarthome-ec90d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658724121200:android:12f4812fc3bc8fedc9a2b5",
+        "android_client_info": {
+          "package_name": "uit.iot.test_app_smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658724121200-qehj73tvpevpsvf1gvp3q2ec2ks59bv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK5vISh6iIfgKOwfD7Xg4epBY4xiN2UTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658724121200-qehj73tvpevpsvf1gvp3q2ec2ks59bv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
